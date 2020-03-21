@@ -1,0 +1,14 @@
+name: hashcode_combine
+description: A hashcode combiner
+version: 1.0.0
+homepage: https://github.com/yesmey/hashcode_combine
+author: Jesper Meyer <jesper.meyr@gmail.com>
+
+environment:
+  sdk: '>=2.2.0 <3.0.0'
+
+#dependencies:
+#
+
+dev_dependencies:
+  test: ^1.0.0
